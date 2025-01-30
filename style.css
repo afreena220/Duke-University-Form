@@ -1,0 +1,4 @@
+ body {background-color:#b9d2d7;
+animation-name:example;
+animation-duration:4s;animation-iteration-count:infinite;}
+@keyframes example { from {background-color: #cee1e7;} to {background-color: #dde8ec;}}
